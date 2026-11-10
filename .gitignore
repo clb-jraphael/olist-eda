@@ -1,0 +1,18 @@
+# virtual environment
+.venv/
+
+# raw data (not redistributed; see README)
+data/raw/
+
+# Python and Jupyter byproducts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# secrets and local config
+.env
+.vscode/
+
+# OS junk
+Thumbs.db
+desktop.ini
